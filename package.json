@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "chalk",
   "version": "1.0.0",
-  "description": "",
+  "description": "colored coding",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "chalk": "^5.2.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jah4god1/Create-Readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jah4god1/Create-Readme-generator/issues"
+  },
+  "homepage": "https://github.com/Jah4god1/Create-Readme-generator#readme"
 }
