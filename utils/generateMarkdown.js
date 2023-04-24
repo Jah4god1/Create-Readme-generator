@@ -1,10 +1,12 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
+let badgeURL = `https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
+
 function renderLicenseBadge(license) {
   if(license !== "none"){
 
    
-  return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
+  return `![GitHub license](https://img.shields.io/badge/license-${license}-brightgreen.png)`
 
 
 
@@ -20,13 +22,6 @@ function renderLicenseLink(license) {}
 // If there is no license, return an empty string
 function renderLicenseSection(license) {}
 
-var color = "blue"
-
-var animal = 'dog'
-
-var favorites = "Bob's favorite color is " + color + " and his favorite animal is a " + animal + ".";
-
-var tempLit = `Bob's fav color is a ${color} and his fav animal is a ${animal}.`
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -36,6 +31,11 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents
+* [Installation](#installation)
+* [Usage Info](#usage-info)
+* [Contribution Guidelines](#contribution-guidelines)
+* [Test Instructions](#test-instructions)
+* [Questions](#questions)
 
 ## Installation
 
@@ -45,11 +45,20 @@ ${data.installation}
 
 ${data.usage_info}
 
+## Contribution Guidelines
 
+${data.contribution_guidelines}
+
+## Test Instructions
+
+${data.test_instructions}
 
 ## Questions
 
-*** Use email and github here(if you have questions...)
+If you have any questions you can email us at : ${data.Email_address}
+
+You can also find us on Github at: ${data.Github}
+
 
 `;
 }
