@@ -1,1 +1,0 @@
-creating a fullu functional Readme generator that the user can put in their inputs and it will be displayed in the file as well as attach a license.
