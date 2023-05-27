@@ -1,7 +1,7 @@
-# s
+# create read me 
   ![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.png)
 ## Description
-s
+creating a read me
 
 ## Table of Contents
 * [Description](#Description)
@@ -13,24 +13,24 @@ s
 
 ## Installation
 
-s
+you can find them in the documentation
 
 ## Usage Info
 
-s
+usage info
 
 ## Contribution Guidelines
 
-s
+contribution guidelines
 
 ## Test Instructions
 
-s
+test instructions
 
 ## Questions
 
-If you have any questions you can email us at : s
+If you have any questions you can email us at : japhethbruc93@gmail.com
 
-You can also find us on Github at: s
+You can also find us on Github at: jah4god
 
 
