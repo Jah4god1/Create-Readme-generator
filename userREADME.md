@@ -1,7 +1,7 @@
-# create read me 
+# create readme
   ![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.png)
 ## Description
-creating a read me
+creating readme
 
 ## Table of Contents
 * [Description](#Description)
@@ -13,24 +13,24 @@ creating a read me
 
 ## Installation
 
-you can find them in the documentation
+creating a readme
 
 ## Usage Info
 
-usage info
+type readme
 
 ## Contribution Guidelines
 
-contribution guidelines
+create readme
 
 ## Test Instructions
 
-test instructions
+test readme
 
 ## Questions
 
-If you have any questions you can email us at : japhethbruc93@gmail.com
+If you have any questions you can email us at : japhethbruce93@gmail.com
 
-You can also find us on Github at: jah4god
+You can also find us on Github at: jah4god1
 
 
